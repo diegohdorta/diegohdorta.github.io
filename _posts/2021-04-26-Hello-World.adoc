@@ -1,0 +1,7 @@
+= Hello World
+:page-tag: C Programming Language
+
+
+This is a test file.
+
+<script src="https://gist.github.com/diegohdorta/d5970055c2ec32a2cfea5b2d8f641f4e.js"></script>
